@@ -1,0 +1,65 @@
+body {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    color: #000000;
+    margin: 20px;
+    background-color: #E6E6E6;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    color: #000080;
+    text-align: center;
+    background-color: #FFFFFF;
+    border-top: 1px solid #000000;
+    border-bottom: 1px solid #3366CC;
+    margin: 20px auto;
+}
+
+h2 {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.TimesRojo {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 14px;
+    font-weight: bold;
+    color: #FF0000;
+}
+
+.TimesVerde {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 14px;
+    font-weight: bold;
+    color: #008000;
+}
+
+#recuadro {
+    background-color: #F5A9A9;
+    font-size: 14px;
+    color: #74030A;
+    font-family: Arial, Times, sans-serif;
+    border: solid 3px;
+    padding: 15px;
+    margin: 20px auto 20px auto;
+    width: 50%; /* utiliza porcentajes para que se adapte a la resolución */
+    border-radius: 25px; /* borde redondeado */
+    box-shadow: 2px 2px 5px black; /* sombra: desplazamiento horizontal, vertical, difuminado y color */
+}
+
+#formacion {
+    background-color: #9FD5FB;
+    font-size: 14px;
+    color: #000080;
+    font-family: "Times New Roman", Times, serif;
+    border: dotted 3px #000080;
+    padding: 15px;
+    margin: 20px auto 20px auto;
+    width: 50%;
+    border-radius: 25px;
+    box-shadow: 2px 2px 5px black;
+}
